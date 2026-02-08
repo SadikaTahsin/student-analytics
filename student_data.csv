@@ -1,0 +1,10 @@
+Gender,Age,StudyHours,Attendance,InternetAccess,PreviousScore,FinalScore
+Male,18,5,85,Yes,78,82
+Female,17,3,70,Yes,65,68
+Male,18,6,90,No,80,85
+Female,17,4,75,Yes,60,70
+Male,18,7,95,Yes,88,92
+Female,18,2,60,No,55,58
+Male,17,5,80,Yes,72,78
+Female,18,6,88,Yes,85,89
+
